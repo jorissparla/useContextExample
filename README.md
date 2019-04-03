@@ -1,2 +1,0 @@
-# useContextExample
-Created with CodeSandbox
